@@ -8,7 +8,7 @@ public class Main {
     public static class Coche {
         static int numPuertas = 4;
         void addPuertas ( int numPuertas ){
-            System.out.println(Coche.numPuertas);
+            System.out.println("el numero de puertas del coche son " +Coche.numPuertas);
         }
     }
 
